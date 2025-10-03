@@ -1,0 +1,41 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+*.venv/
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database files
+*.sqlite3
+*.db
+
+# Pydantic warnings cache
+*.pydantic_cache
+
+# Python package files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment variables file
+.env
+
+# JetBrains IDE config
+*.iml
